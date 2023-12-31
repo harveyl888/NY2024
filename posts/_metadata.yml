@@ -1,0 +1,5 @@
+freeze: true
+title-block-banner: true
+format:
+  html:
+    include-in-header: script.html

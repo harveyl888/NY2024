@@ -1,0 +1,15 @@
+---
+title: "Balloon 6 - 11:00PM"
+date: "2023-12-31"
+categories: [balloons]
+image: "balloons.jpg"
+---
+
+![](balloons.jpg)
+
+Can you sing?
+
+By this time of night it doesn't really matter.
+
+Let's do Karaoke!  Go to **YouTube** on the TV and search for Karaoke songs.  Who has the best voice?
+

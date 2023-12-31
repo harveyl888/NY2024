@@ -1,0 +1,20 @@
+---
+title: "Balloon 1 - 8:00PM"
+date: "2023-12-31"
+categories: [balloons]
+image: "balloons.jpg"
+---
+
+![](balloons.jpg)
+
+Time for a game
+
+Let's play **Charades**
+
+Click the button below for the name of a **movie** or **song** and describe it to your friends using just actions.  No words or sounds.
+
+<button type="button" class="btn btn-info" onclick="charades_choose()">New Charade</button>
+
+<div>
+<p id="charade_text" class="text-info bigger-text"></p>
+</div>
